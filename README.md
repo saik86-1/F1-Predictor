@@ -26,7 +26,6 @@ This project uses historical F1 race data (2019–2025) to:
 - ✅ **Podium prediction** → Top 3 drivers for the next race based on most recent form  
 - ✅ **Game-style podium view** →  
   - Rank numbers (1, 2, 3) inside podium blocks  
-  - Team logos displayed below rank numbers  
   - Driver name, team, and probability shown above each block  
 
 ---
